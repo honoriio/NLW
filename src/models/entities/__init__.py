@@ -1,1 +1,1 @@
-from events import events
+from src.models.entities.events import events
